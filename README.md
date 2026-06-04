@@ -1,4 +1,4 @@
-# Project Jafar – EMG & Voice Controlled Prosthetic Arm
+# Project Jafar – Prosthetic Arm
 
 ## Overview
 
